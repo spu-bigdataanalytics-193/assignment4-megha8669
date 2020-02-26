@@ -7,4 +7,4 @@ I was trying to do map reduce with Dockers and Databricks but it was showing som
 I was starting with install java lib and spark then connect with mount google drive. Here, I am using PYSPRK library to get the proper result and i just load the data because i already downloaded the data in last assignment. 
 I use the map reduce algorithm(Mapping, Shuffling, Reducing) to have the number of flights by carrier.
 
-And I also work Databricks. You can see in Screenshot folder. I uploaded Two screenshots of databricks file. 
+And I also work Databricks. You can see in Screenshot folder. I uploaded just one screenshots of databricks file. 
